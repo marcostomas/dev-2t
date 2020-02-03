@@ -86,22 +86,68 @@ WHERE Vizualizacao = 17000;
 DELETE FROM Albuns
 WHERE idArtista = 1;
 
+/* Relacionar Artista e Nome do Album */
+
 SELECT idArtista, Nome FROM Albuns
 WHERE idArtista LIKE 2;
 
---Não há albuns lançados na mesma data
+-- Com Inner Join
+
+SELECT * FROM Artistas
+INNER JOIN Albuns ON Artistas.idArtista = Albuns.idArtista
+WHERE  ALbuns.idArtista = 2
+
+
+
+/* Albuns lançados na mesma data */
 
 SELECT idAlbum, DataLancamento FROM Albuns
 WHERE DataLancamento;
 
+--Com o Inner Join
 
---Não há artistas do mesmo estilo
+SELECT Artistas.Nome, Albuns.Nome, Albuns.DataLancamento FROM Artistas
+INNER JOIN Albuns ON Artistas.idArtista = Albuns.idArtista
+WHERE DataLancamento = '2019-12-31';
+
+
+
+/* Artistas do Mesmo Estilo */
 
 SELECT idArtista, idAlbum FROM Albuns
 WHERE idAlbum = 4;
 
+
+
+/* Albuns e Artistas e Ordenar por Lançamento */
+
 SELECT idAlbum, idArtista, DataLancamento FROM Albuns
 ORDER BY DataLancamento DESC;
+
+
+-- Forma de Fazer 2
+
+SELECT * FROM Albuns ORDER BY DataLancamento DESC;
+
+
+-- Com Inner Join (Seguindo a Forma de fazer 2)
+
+SELECT * FROM Albuns
+INNER JOIN  Artistas ON Albuns.idArtista = Artistas.idArtista
+ORDER BY DataLancamento DESC;
+
+
+
+/* Selecionar os Artistas dos Mesmo Estilo Musical */
+
+SELECT idArtista, idEstilo FROM Albuns WHERE idEstilo = 2;
+
+
+-- Com Inner Join (Com 3 Tabelas)
+
+SELECT Artistas.Nome, Estilos.Nome FROM Artistas
+INNER JOIN Albuns ON Artistas.idArtista = Albuns.idArtista
+INNER JOIN Estilos ON Estilos.idEstilo = Albuns.idEstilo;
 
 
 ---------------------------------------- EXEMPLOS & EXPLICAÇÕES------------------------------------
