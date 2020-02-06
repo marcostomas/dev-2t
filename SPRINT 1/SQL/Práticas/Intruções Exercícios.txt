@@ -1,0 +1,91 @@
+inserir 5 dados em cada tabela
+
+alterar o nome de um genero
+
+alterar o genero de um livro
+
+apagar um autor
+
+---------------------------------------------------------------------
+
+criar banco
+
+criar todas as tabelas baseadas no modelo logico
+
+inserir no minimo 5 dados em cada tabela
+
+alterar nome de um artista
+
+alterar o tipo de usuario
+
+alterar a quantidade de visualização de um album
+
+apagar um album
+
+-----------------------------------------------
+
+entregar o arquivo com o nome SPRINT1-2DEV-OPTUS-MARCOS
+
+selecionar os albuns do mesmo artista
+
+selecionar os albuns lançados na mesma data
+
+selecionar os artistas do mesmo estilo musical
+
+selecionar albuns e artistas e ordenar a data de lançamento da mais recente para a mais antiga
+
+-----------------------------------------------------------------------------------------------
+
+selecionar todos os autores
+
+selecionar todos os generos
+
+selecionar todos os livros
+
+selecionar todos os livros e seus respectivos autores
+
+selecionar todos os livros e seus respectivos generos
+
+selecionar todos os livros e seus respectivos autores e generos
+
+------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
