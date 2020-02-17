@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("senai.filmes.webapi")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("senai.Filmes.WebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("senai.filmes.webapi")]
-[assembly: System.Reflection.AssemblyTitleAttribute("senai.filmes.webapi")]
+[assembly: System.Reflection.AssemblyProductAttribute("senai.Filmes.WebApi")]
+[assembly: System.Reflection.AssemblyTitleAttribute("senai.Filmes.WebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

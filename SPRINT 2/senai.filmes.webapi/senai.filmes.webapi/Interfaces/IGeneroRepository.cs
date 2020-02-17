@@ -1,11 +1,14 @@
-﻿using senai.filmes.webapi.Domains;
+﻿using senai.Filmes.WebApi.Domains;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace senai.filmes.webapi.Interfaces
+namespace senai.Filmes.WebApi.Interfaces
 {
+    /// <summary>
+    /// Interface responsável pelo repositório Genero
+    /// </summary>
     interface IGeneroRepository
     {
         /// <summary>

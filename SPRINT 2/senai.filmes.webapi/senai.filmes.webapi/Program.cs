@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
-namespace senai.filmes.webapi
+namespace senai.Filmes.WebApi
 {
     public class Program
     {
