@@ -43,8 +43,8 @@ CREATE TABLE Medico (
 CREATE TABLE Prontuario (
 	idProntuario	INT PRIMARY KEY IDENTITY,
 	idUsuario		INT FOREIGN KEY REFERENCES Usuario (idUsuario) NOT NULL,
-	DataNascimento	DATETIME2 NOT NULL,
-	Telefone		CHAR(20) NOT NULL,
+	DataNascimento	DATE NOT NULL,
+	Telefone		CHAR(20),
 	RG				CHAR(20) NOT NULL,
 	CPF				CHAR(20) NOT NULL,
 	Endereco		VARCHAR(255) NOT NULL
@@ -57,3 +57,6 @@ CREATE TABLE Atendimento (
 	DataAtendimento	DATETIME2,
 	Situacao		VARCHAR(255)
 );
+
+USE MASTER;
+DROP DATABASE SPMEDGROUP_MANHA;
