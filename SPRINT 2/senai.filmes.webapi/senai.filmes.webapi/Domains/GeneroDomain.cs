@@ -7,8 +7,7 @@ namespace senai.filmes.webapi.Domains
 {
     public class GeneroDomain
     {
-        public int idGenero { get; set; }
+        public int IdGenero {get; set;}
         public string Nome { get; set; }
     }
 }
-z

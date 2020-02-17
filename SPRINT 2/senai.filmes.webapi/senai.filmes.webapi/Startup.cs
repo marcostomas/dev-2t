@@ -14,9 +14,9 @@ namespace senai.filmes.webapi
         // This method gets called by the runtime. Use this method to add services to the container.
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
-        {
-            //Adiciona MVC ao projeto
+        {   //Adiciona MVC ao prpojeto
             services.AddMvc()
+            //Define a versão do .Net Core compativel
                 .SetCompatibilityVersion(Microsoft.AspNetCore.Mvc.CompatibilityVersion.Version_2_1);
         }
 
@@ -27,9 +27,7 @@ namespace senai.filmes.webapi
             {
                 app.UseDeveloperExceptionPage();
             }
-
-            //Define o uso do MVC
-
+            //Definindo uso do MVC
             app.UseMvc();
         }
     }
