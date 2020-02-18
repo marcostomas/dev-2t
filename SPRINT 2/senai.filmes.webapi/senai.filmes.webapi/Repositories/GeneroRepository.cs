@@ -20,7 +20,89 @@ namespace senai.Filmes.WebApi.Repositories
         /// integrated security=true - Faz a autenticação com o usuário do sistema
         /// user Id=sa; pwd=sa@132 - Faz a autenticação com um usuário específico, passando o logon e a senha
         /// </summary>
-        private string StringConexao = "Data Source=DEV801\\SQLEXPRESS; initial catalog=Filmes_manha; user Id=sa; pwd=sa@132;";
+        private string StringConexao = "Data Source=DEV801\\SQLEXPRESS; initial catalog=Filmes; user Id=sa; pwd=sa@132;";
+
+        public void AtualizarIdUrl(int id, GeneroDomain genero)
+        {
+            using (SqlConnection con = new SqlConnection(StringConexao))
+            {
+                string queryAtualizar = "UPDATE Genero SET Genero = @Genero WHERE IdGenero = @ID";
+
+                using (SqlCommand cmd = new SqlCommand(queryAtualizar, con))
+                {
+                    cmd.Parameters.AddWithValue("@ID", id);
+                    cmd.Parameters.AddWithValue("@Nome", genero.Nome);
+                }
+            }
+        }
+
+        public GeneroDomain GetById(int id)
+        {
+            using (SqlConnection con = new SqlConnection)
+            {
+                string queryBuscar = "SELECT IdGenero, Nome FROM Generos";
+
+                using (SqlCommand cmd = new SqlCommand(queryBuscar, con))
+                {
+                    cmd.Parameters.AddWithValue("@ID", id);
+
+                    con.Open();
+
+                    SqlDataReader rdr;
+
+                    rdr = cmd.ExecuteReader();
+
+                    if(rdr.Read())
+                    {
+                        GeneroDomain genero = new GeneroDomain
+                        {
+                            IdGenero = Convert.ToInt32(rdr["IdGenero"]),
+                            Nome = rdr["Nome"].ToString()
+                        };
+
+                        return genero;
+                    }
+                }
+            }
+
+            return
+        }
+
+
+        public void Criar(GeneroDomain genero)
+        {
+            using (SqlConnection con = new SqlConnection (StringConexao))
+            {
+                string queryInsert = "INSERT INTO Genero (Genero) VALUES (@Genero)";
+
+                using (SqlCommand cmd = new SqlCommand(queryInsert, con))
+                {
+                    cmd.Parameters.AddWithValue("@Genero", genero.Nome);
+
+                    con.Open();
+
+                    cmd.ExecuteNonQuery();
+                }
+            }
+        }
+
+        public void Deletar(int id)
+        {
+            using (SqlConnection con = new SqlConnection(StringConexao))
+            {
+                string queryDeletar = "DELETE FROM Generos WHERE IdGenero = @ID";
+
+                using (SqlCommand cmd = new SqlCommand(queryDeletar, con))
+                {
+                    cmd.Parameters.AddWithValue("@ID", id);
+
+
+                    con.Open();
+
+                    cmd.ExecuteNonQuery();
+                }
+            }
+        }
 
         /// <summary>
         /// Lista todos os gêneros
@@ -35,7 +117,7 @@ namespace senai.Filmes.WebApi.Repositories
             using (SqlConnection con = new SqlConnection(StringConexao))
             {
                 // Declara a instrução a ser executada
-                string query = "SELECT IdGenero, Nome from Generos";
+                string query = "SELECT IdGenero, Genero from Genero";
 
                 // Abre a conexão com o banco de dados
                 con.Open();
@@ -59,7 +141,7 @@ namespace senai.Filmes.WebApi.Repositories
                             IdGenero = Convert.ToInt32(rdr[0]),
 
                             // Atribui à propriedade Nome o valor da coluna "Nome" da tabela do banco
-                            Nome = rdr["Nome"].ToString()
+                            Nome = rdr["Genero"].ToString()
                         };
 
                         // Adiciona o genero criado à tabela generos
@@ -71,5 +153,6 @@ namespace senai.Filmes.WebApi.Repositories
             // Retorna a lista de generos
             return generos;
         }
+
     }
 }
