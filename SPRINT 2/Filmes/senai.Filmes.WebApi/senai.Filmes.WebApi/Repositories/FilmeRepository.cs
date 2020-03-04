@@ -10,7 +10,8 @@ namespace senai.Filmes.WebApi.Repositories
 {
     public class FilmeRepository : IFilmeRepository
     {
-        private string stringConexao = "Data Source=DEV801\\SQLEXPRESS";
+        private string stringConexao = "Data Source=DEV801\\SQLEXPRESS; initial catalog=Filmes_manha; user Id=sa; pwd=sa@132";
+
 
         public void AtualizarIdCorpo(FilmeDomain filme)
         {
@@ -20,12 +21,12 @@ namespace senai.Filmes.WebApi.Repositories
 
                 using (SqlCommand cmd = new SqlCommand(queryUpdate, conn))
                 {
-                    cmd.Parameters.AddWithValue("@ID", filme.IdFilme);
+                    cmd.Parameters.AddWithValue("@ID",filme.IdFilme);
                     cmd.Parameters.AddWithValue("@Titulo", filme.Titulo);
 
                     conn.Open();
 
-                    cmd.ExecuteNonQuery()
+                    cmd.ExecuteNonQuery();
                 }
             }
         }
@@ -38,7 +39,7 @@ namespace senai.Filmes.WebApi.Repositories
 
                 using (SqlCommand cmd = new SqlCommand(queryUpdate, conn))
                 {
-                    cmd.Parameters.AddWithValue("@ID", filme.IdFilme);
+                    cmd.Parameters.AddWithValue("@ID", id);
                     cmd.Parameters.AddWithValue("@Titulo", filme.Titulo);
 
                     conn.Open();
@@ -133,7 +134,8 @@ namespace senai.Filmes.WebApi.Repositories
                         FilmeDomain filme = new FilmeDomain
                         {
                             IdFilme = Convert.ToInt32(rdr[0]),
-                            Titulo = rdr["Titulo"].ToString()
+                            Titulo = rdr["Titulo"].ToString(),
+                            //IdGenero = Convert.ToInt32(rdr[2])
                         };
 
                         filmes.Add(filme);

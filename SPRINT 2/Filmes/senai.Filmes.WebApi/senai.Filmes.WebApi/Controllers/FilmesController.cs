@@ -10,7 +10,7 @@ using senai.Filmes.WebApi.Repositories;
 
 namespace senai.Filmes.WebApi.Controllers
 {
-    [Produces("applicaton/json")]
+    [Produces("application/json")]
     [Route("api/[controller]")]
     [ApiController]
 
@@ -38,7 +38,7 @@ namespace senai.Filmes.WebApi.Controllers
         {
             FilmeDomain filmeBuscado = _filmeRepository.BuscarPorId(id);
 
-            if(filmeBuscado == null)
+            if (filmeBuscado == null)
             {
                 return NotFound("Nenhum Filme foi Encontrado");
             }
@@ -63,7 +63,7 @@ namespace senai.Filmes.WebApi.Controllers
         {
             FilmeDomain filmeBuscado = _filmeRepository.BuscarPorId(filmeAtualizado.IdFilme);
 
-            if(filmeBuscado != null)
+            if (filmeBuscado != null)
             {
                 try
                 {
@@ -92,7 +92,7 @@ namespace senai.Filmes.WebApi.Controllers
         {
             FilmeDomain filmeBuscado = _filmeRepository.BuscarPorId(id);
 
-            if(filmeBuscado == null)
+            if (filmeBuscado == null)
             {
                 return NotFound
                     (
@@ -122,7 +122,7 @@ namespace senai.Filmes.WebApi.Controllers
         {
             _filmeRepository.Deletar(id);
 
-                return Ok("Filme Atualizado");
+            return Ok("Filme Atualizado");
         }
     }
 }
