@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Campeonato_App.Views.ExemploView">
+    <ContentPage.Content>
+        <StackLayout>
+            <!-- 1. Entrada tipo label -->
+            <Label
+                Text= "Entry"
+                FontSize="20"
+                HorizontalOptions="Center"
+                VerticalOptions="CenterAndExpand"
+                />
+
+            <!-- 2. Entrada tipo caixa de texto -->
+            <Entry Text="I am an Entry" />
+
+            <!-- 3. Caixa de Texto com Placeholder-->
+            <Entry Placeholder="Username" PlaceholderColor="Olive" />
+
+            <!-- 4. Caixa de texto APENAS LEITURA-->
+            <Entry Text="This is a read-only Entry" IsReadOnly="true" />
+
+            <!-- 5. Define o comprimento máximo -->
+            <Entry Text="EntryTam10" MaxLength="10" />
+
+            <!-- 6. Define o comprimento máximo e o espaçamento entre caracteres -->
+            <Entry Text="EntryTam10" MaxLength="10" CharacterSpacing="10"/>
+
+            <!-- 7. Entrada caixa de texto do tipo senha -->
+            <Entry IsPassword="true" />
+
+            <!-- 8. Entrada caixa de texto do tipo senha e placeholder senha -->
+            <Entry IsPassword="true" Placeholder="Password" />
+
+            <!-- 9. Caixa de texto que especifica a posição inicial do cursor -->
+            <Entry Text="Cursor position set" CursorPosition="5" />
+            
+            <!-- 10. Caixa de texto que especifica o texto selecionado e a posição inicial do cursor-->
+            <Entry Text="Cursor position and selection length set" CursorPosition="2" SelectionLength="10" />
+
+            <!-- 11. Caixa de texto que define a cor do texto-->
+            <Entry TextColor="Green" />
+
+            <!-- 12. Caixa de texto que define a cor de fundo-->
+            <Entry BackgroundColor="#2c3e50" />
+
+            <!-- 13. Caixa de texto com botão de limpar-->
+            <Entry Text="Xamarin.Forms" ClearButtonVisibility="WhileEditing" />
+
+            <!-- 14. Caixa de texto que habilita direto o teclado numérico-->
+            <Entry Text="Numeric" Keyboard="Numeric" />
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

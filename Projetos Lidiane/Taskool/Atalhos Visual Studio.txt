@@ -1,0 +1,7 @@
+Atalhos Visual Studio
+
+• Ctrl + Shift + A --Adiciona Classe
+
+• Ctrl + Alt + X --Abre Caixa de Ferramentas [Toolbox]
+
+• Ctrl + Shift + B --Compilar Solução

@@ -1,0 +1,18 @@
+• Mobile App Xamarin Forms - VS
+	Select Blank
+	Dentro de Views - Adicionar Item
+		Select Content Page
+
+**Em uma tela Zemel, ao apertar F7, eu consigo acessar a class**
+**Ctrl + Shift + F5**
+
+label é uma visualização de texto e um componente e sempre deve estar dentro de um layout
+Dentro de uma pagina eu so posso ter um layout principal, mas dentro de um layout eu posso ter varios outros layouts
+<ContentPage.Content>
+	<StackLayout>
+		<Label Text="Marcos"/>
+		<Label Text="Marcos"/>
+		<Label Text="Marcos"/>
+	<StackLayout/>
+<ContentPage.Content/>
+

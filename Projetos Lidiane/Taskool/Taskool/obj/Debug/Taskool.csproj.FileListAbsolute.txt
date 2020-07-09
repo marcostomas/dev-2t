@@ -1,0 +1,15 @@
+C:\Users\marcos\Desktop\Taskool\Taskool\obj\Debug\Taskool.csprojAssemblyReference.cache
+C:\Users\marcos\Desktop\Taskool\Taskool\obj\Debug\Taskool.frmCadastro.resources
+C:\Users\marcos\Desktop\Taskool\Taskool\obj\Debug\Taskool.frmLogin.resources
+C:\Users\marcos\Desktop\Taskool\Taskool\obj\Debug\Taskool.Properties.Resources.resources
+C:\Users\marcos\Desktop\Taskool\Taskool\obj\Debug\Taskool.csproj.GenerateResource.cache
+C:\Users\marcos\Desktop\Taskool\Taskool\obj\Debug\Taskool.csproj.CoreCompileInputs.cache
+C:\Users\marcos\Desktop\Taskool\Taskool\bin\Debug\Taskool.exe.config
+C:\Users\marcos\Desktop\Taskool\Taskool\bin\Debug\Taskool.exe
+C:\Users\marcos\Desktop\Taskool\Taskool\bin\Debug\Taskool.pdb
+C:\Users\marcos\Desktop\Taskool\Taskool\obj\Debug\Taskool.exe
+C:\Users\marcos\Desktop\Taskool\Taskool\obj\Debug\Taskool.pdb
+C:\Users\marcos\Desktop\Taskool\Taskool\obj\Debug\Taskool.Views.frmSplash.resources
+C:\Users\marcos\Desktop\Taskool\Taskool\obj\Debug\Taskool.Views.frmPrincipal.resources
+C:\Users\marcos\Desktop\Taskool\Taskool\obj\Debug\Taskool.Views.frmListaUsuario.resources
+C:\Users\marcos\Desktop\Taskool\Taskool\obj\Debug\Taskool.Views.frmSobre.resources

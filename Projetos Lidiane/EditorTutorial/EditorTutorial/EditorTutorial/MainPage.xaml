@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="EditorTutorial.MainPage">
+    
+    <StackLayout Margin="20,35,20,20">
+
+        <!--
+        
+            • Editor: permite editar um texto;
+            • Placeholder: Substitui um texto quano o usuário clica dentro de Editor;
+            • HeightRequest: Define a altura de Editor e é válida apenas para o Android;
+            • TextChanged: Quando o texto mudar, ele aciona o método OnEditorTextChanged;
+            • Completed: Quando o usuário desselecionar o Editor e/ou apertar concluído no IOS,
+                         Completed acionará o método OnEditorCompleted.
+        
+            OnEditorTextChanged OnEditorCompleted estão em MainPage.xaml.cs
+            
+            <Editor Placeholder="Enter multi-line text here"
+            HeightRequest="200"
+            TextChanged="OnEditorTextChanged"    
+            Completed="OnEditorCompleted" />
+        -->
+
+        <!--
+        
+            • AutoSize: Aumenta e diminui conforme a quantidade de texto inserida; 
+            • MaxLength: limita o tamanho de entrada permitido para o Editor, em 200, no caso; 
+            • IsSpellCheckEnabled: Habilita ou desabilita a verificação de ortigrafia;
+            • IsTextPredictionEnabled: Habilita ou desabilita a previsão automática de texto.
+        
+        -->
+
+        <Editor Placeholder="Enter multi-line text here"
+        AutoSize="TextChanges"
+        MaxLength="200"
+        IsSpellCheckEnabled="false"
+        IsTextPredictionEnabled="false" />
+    </StackLayout>
+    
+</ContentPage>

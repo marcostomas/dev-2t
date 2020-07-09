@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             xmlns:local="clr-namespace:Campeonato_App"
+             x:Class="Campeonato_App.Views.Cadastro">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="AliceBlue">
+
+            <Image 
+                Source="{local:ImageResource Campeonato_App.Resources.Icons.baseline_person_black_48dp.png}" 
+                HeightRequest="200"
+                WidthRequest="100"
+            />
+
+            <Grid Grid.Row="1" Grid.Column="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="50"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Image 
+                    Grid.Column="0" 
+                    Source="{local:ImageResource Campeonato_App.Resources.Icons.baseline_person_black_48dp.png}"
+                />
+                <Entry  
+                    Grid.Column="0"
+                    Grid.ColumnSpan="2"
+                    HorizontalTextAlignment="Center"
+                    Placeholder="Nome*"
+                />
+            </Grid>
+
+            <Grid Grid.Row="1" Grid.Column="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="50"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Image 
+                    Grid.Column="0" 
+                    Source="{local:ImageResource Campeonato_App.Resources.Icons.baseline_person_black_48dp.png}"
+                />
+                <Entry  
+                    Grid.Column="0"
+                    Grid.ColumnSpan="2"
+                    HorizontalTextAlignment="Center"
+                    Placeholder="Apelido*"
+                />
+            </Grid>
+
+            <Grid Grid.Row="1" Grid.Column="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="50"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Image 
+                    Grid.Column="0" 
+                    Source="{local:ImageResource Campeonato_App.Resources.Icons.baseline_email_black_48dp.png}"
+                />
+                <Entry  
+                    Grid.Column="0"
+                    Grid.ColumnSpan="2"
+                    HorizontalTextAlignment="Center"
+                    Placeholder="Email*"
+                />
+            </Grid>
+
+            <Grid Grid.Row="1" Grid.Column="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="50"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Image 
+                    Grid.Column="0" 
+                    Source="{local:ImageResource Campeonato_App.Resources.Icons.baseline_lock_black_48dp.png}"
+                />
+                <Entry  
+                    Grid.Column="0"
+                    Grid.ColumnSpan="2"
+                    HorizontalTextAlignment="Center"
+                    Placeholder="Senha*"
+                />
+            </Grid>
+
+            <Button 
+                    Text="Cadastre-se"
+                    VerticalOptions="End"
+                    HorizontalOptions="CenterAndExpand"
+                    BackgroundColor="MediumSeaGreen"
+                    BorderWidth="0"
+                    CornerRadius="10"
+                    WidthRequest="150"
+                    HeightRequest="50" 
+            />
+
+            <StackLayout>
+                <Label>
+                    <Label.FormattedText>
+                        <FormattedString>
+                            <Span Text="Login" 
+                                  TextColor="Blue" 
+                                  TextDecorations="Underline">
+                                <Span.GestureRecognizers>
+                                    <TapGestureRecognizer 
+                                        Command="{Binding TapCommand}"
+                                        CommandParameter="#"/>
+                                </Span.GestureRecognizers>
+                            </Span>
+                        </FormattedString>
+                    </Label.FormattedText>
+                </Label>
+            </StackLayout>
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,14 @@
+C:\Users\marcos\Desktop\Projetos Lidiane\ContactApp\ContactApp\ContactApp\bin\Debug\netstandard2.0\ContactApp.deps.json
+C:\Users\marcos\Desktop\Projetos Lidiane\ContactApp\ContactApp\ContactApp\bin\Debug\netstandard2.0\ContactApp.dll
+C:\Users\marcos\Desktop\Projetos Lidiane\ContactApp\ContactApp\ContactApp\obj\Debug\netstandard2.0\ContactApp.csprojAssemblyReference.cache
+C:\Users\marcos\Desktop\Projetos Lidiane\ContactApp\ContactApp\ContactApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\marcos\Desktop\Projetos Lidiane\ContactApp\ContactApp\ContactApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\marcos\Desktop\Projetos Lidiane\ContactApp\ContactApp\ContactApp\obj\Debug\netstandard2.0\ContactApp.AssemblyInfoInputs.cache
+C:\Users\marcos\Desktop\Projetos Lidiane\ContactApp\ContactApp\ContactApp\obj\Debug\netstandard2.0\ContactApp.AssemblyInfo.cs
+C:\Users\marcos\Desktop\Projetos Lidiane\ContactApp\ContactApp\ContactApp\bin\Debug\netstandard2.0\ref\ContactApp.dll
+C:\Users\marcos\Desktop\Projetos Lidiane\ContactApp\ContactApp\ContactApp\bin\Debug\netstandard2.0\ContactApp.pdb
+C:\Users\marcos\Desktop\Projetos Lidiane\ContactApp\ContactApp\ContactApp\obj\Debug\netstandard2.0\ContactApp.csproj.CoreCompileInputs.cache
+C:\Users\marcos\Desktop\Projetos Lidiane\ContactApp\ContactApp\ContactApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\marcos\Desktop\Projetos Lidiane\ContactApp\ContactApp\ContactApp\obj\Debug\netstandard2.0\ContactApp.dll
+C:\Users\marcos\Desktop\Projetos Lidiane\ContactApp\ContactApp\ContactApp\obj\Debug\netstandard2.0\ref\ContactApp.dll
+C:\Users\marcos\Desktop\Projetos Lidiane\ContactApp\ContactApp\ContactApp\obj\Debug\netstandard2.0\ContactApp.pdb

@@ -1,0 +1,24 @@
+C:\Xamarin\Aula 7 - BD Local\Sqlite-tutorial\LocalDatabaseTutorial\bin\Debug\netstandard2.0\LocalDatabaseTutorial.deps.json
+C:\Xamarin\Aula 7 - BD Local\Sqlite-tutorial\LocalDatabaseTutorial\bin\Debug\netstandard2.0\LocalDatabaseTutorial.dll
+C:\Xamarin\Aula 7 - BD Local\Sqlite-tutorial\LocalDatabaseTutorial\bin\Debug\netstandard2.0\LocalDatabaseTutorial.pdb
+C:\Xamarin\Aula 7 - BD Local\Sqlite-tutorial\LocalDatabaseTutorial\obj\Debug\netstandard2.0\LocalDatabaseTutorial.csprojAssemblyReference.cache
+C:\Xamarin\Aula 7 - BD Local\Sqlite-tutorial\LocalDatabaseTutorial\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Xamarin\Aula 7 - BD Local\Sqlite-tutorial\LocalDatabaseTutorial\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Xamarin\Aula 7 - BD Local\Sqlite-tutorial\LocalDatabaseTutorial\obj\Debug\netstandard2.0\LocalDatabaseTutorial.AssemblyInfoInputs.cache
+C:\Xamarin\Aula 7 - BD Local\Sqlite-tutorial\LocalDatabaseTutorial\obj\Debug\netstandard2.0\LocalDatabaseTutorial.AssemblyInfo.cs
+C:\Xamarin\Aula 7 - BD Local\Sqlite-tutorial\LocalDatabaseTutorial\obj\Debug\netstandard2.0\LocalDatabaseTutorial.csproj.CoreCompileInputs.cache
+C:\Xamarin\Aula 7 - BD Local\Sqlite-tutorial\LocalDatabaseTutorial\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Xamarin\Aula 7 - BD Local\Sqlite-tutorial\LocalDatabaseTutorial\obj\Debug\netstandard2.0\LocalDatabaseTutorial.dll
+C:\Xamarin\Aula 7 - BD Local\Sqlite-tutorial\LocalDatabaseTutorial\obj\Debug\netstandard2.0\LocalDatabaseTutorial.pdb
+C:\Xamarin\Aula 7 - Armazenamento\Sqlite-tutorial\LocalDatabaseTutorial\bin\Debug\netstandard2.0\LocalDatabaseTutorial.deps.json
+C:\Xamarin\Aula 7 - Armazenamento\Sqlite-tutorial\LocalDatabaseTutorial\bin\Debug\netstandard2.0\LocalDatabaseTutorial.dll
+C:\Xamarin\Aula 7 - Armazenamento\Sqlite-tutorial\LocalDatabaseTutorial\bin\Debug\netstandard2.0\LocalDatabaseTutorial.pdb
+C:\Xamarin\Aula 7 - Armazenamento\Sqlite-tutorial\LocalDatabaseTutorial\obj\Debug\netstandard2.0\LocalDatabaseTutorial.csprojAssemblyReference.cache
+C:\Xamarin\Aula 7 - Armazenamento\Sqlite-tutorial\LocalDatabaseTutorial\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Xamarin\Aula 7 - Armazenamento\Sqlite-tutorial\LocalDatabaseTutorial\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Xamarin\Aula 7 - Armazenamento\Sqlite-tutorial\LocalDatabaseTutorial\obj\Debug\netstandard2.0\LocalDatabaseTutorial.AssemblyInfoInputs.cache
+C:\Xamarin\Aula 7 - Armazenamento\Sqlite-tutorial\LocalDatabaseTutorial\obj\Debug\netstandard2.0\LocalDatabaseTutorial.AssemblyInfo.cs
+C:\Xamarin\Aula 7 - Armazenamento\Sqlite-tutorial\LocalDatabaseTutorial\obj\Debug\netstandard2.0\LocalDatabaseTutorial.csproj.CoreCompileInputs.cache
+C:\Xamarin\Aula 7 - Armazenamento\Sqlite-tutorial\LocalDatabaseTutorial\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Xamarin\Aula 7 - Armazenamento\Sqlite-tutorial\LocalDatabaseTutorial\obj\Debug\netstandard2.0\LocalDatabaseTutorial.dll
+C:\Xamarin\Aula 7 - Armazenamento\Sqlite-tutorial\LocalDatabaseTutorial\obj\Debug\netstandard2.0\LocalDatabaseTutorial.pdb

@@ -1,0 +1,12 @@
+C:\Users\marcos\Desktop\Projetos Lidiane\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.deps.json
+C:\Users\marcos\Desktop\Projetos Lidiane\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.dll
+C:\Users\marcos\Desktop\Projetos Lidiane\Notes\Notes\Notes\bin\Debug\netstandard2.0\ref\Notes.dll
+C:\Users\marcos\Desktop\Projetos Lidiane\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.pdb
+C:\Users\marcos\Desktop\Projetos Lidiane\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.csprojAssemblyReference.cache
+C:\Users\marcos\Desktop\Projetos Lidiane\Notes\Notes\Notes\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\marcos\Desktop\Projetos Lidiane\Notes\Notes\Notes\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\marcos\Desktop\Projetos Lidiane\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfoInputs.cache
+C:\Users\marcos\Desktop\Projetos Lidiane\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfo.cs
+C:\Users\marcos\Desktop\Projetos Lidiane\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.dll
+C:\Users\marcos\Desktop\Projetos Lidiane\Notes\Notes\Notes\obj\Debug\netstandard2.0\ref\Notes.dll
+C:\Users\marcos\Desktop\Projetos Lidiane\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.pdb

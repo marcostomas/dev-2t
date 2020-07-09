@@ -1,0 +1,10 @@
+C:\Users\marcos\Desktop\Projetos Lidiane\Note2\Note2\Note2\obj\Debug\netstandard2.0\Note2.csprojAssemblyReference.cache
+C:\Users\marcos\Desktop\Projetos Lidiane\Note2\Note2\Note2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\marcos\Desktop\Projetos Lidiane\Note2\Note2\Note2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\marcos\Desktop\Projetos Lidiane\Note2\Note2\Note2\obj\Debug\netstandard2.0\NoteEntryPage.xaml.g.cs
+C:\Users\marcos\Desktop\Projetos Lidiane\Note2\Note2\Note2\obj\Debug\netstandard2.0\Note2.AssemblyInfoInputs.cache
+C:\Users\marcos\Desktop\Projetos Lidiane\Note2\Note2\Note2\obj\Debug\netstandard2.0\Note2.AssemblyInfo.cs
+C:\Users\marcos\Desktop\Projetos Lidiane\Note2\Note2\Note2\obj\Debug\netstandard2.0\Note2.csproj.CoreCompileInputs.cache
+C:\Users\marcos\Desktop\Projetos Lidiane\Note2\Note2\Note2\obj\Debug\netstandard2.0\Note2.dll
+C:\Users\marcos\Desktop\Projetos Lidiane\Note2\Note2\Note2\obj\Debug\netstandard2.0\ref\Note2.dll
+C:\Users\marcos\Desktop\Projetos Lidiane\Note2\Note2\Note2\obj\Debug\netstandard2.0\Note2.pdb
