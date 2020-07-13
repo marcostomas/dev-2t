@@ -1,0 +1,34 @@
+C:\Users\marcos\Desktop\TabbedPage_App\TabbedPage_App\TabbedPage_App\bin\Debug\netstandard2.0\TabbedPage_App.deps.json
+C:\Users\marcos\Desktop\TabbedPage_App\TabbedPage_App\TabbedPage_App\bin\Debug\netstandard2.0\TabbedPage_App.dll
+C:\Users\marcos\Desktop\TabbedPage_App\TabbedPage_App\TabbedPage_App\bin\Debug\netstandard2.0\ref\TabbedPage_App.dll
+C:\Users\marcos\Desktop\TabbedPage_App\TabbedPage_App\TabbedPage_App\bin\Debug\netstandard2.0\TabbedPage_App.pdb
+C:\Users\marcos\Desktop\TabbedPage_App\TabbedPage_App\TabbedPage_App\obj\Debug\netstandard2.0\TabbedPage_App.csprojAssemblyReference.cache
+C:\Users\marcos\Desktop\TabbedPage_App\TabbedPage_App\TabbedPage_App\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\marcos\Desktop\TabbedPage_App\TabbedPage_App\TabbedPage_App\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\marcos\Desktop\TabbedPage_App\TabbedPage_App\TabbedPage_App\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\marcos\Desktop\TabbedPage_App\TabbedPage_App\TabbedPage_App\obj\Debug\netstandard2.0\Page2.xaml.g.cs
+C:\Users\marcos\Desktop\TabbedPage_App\TabbedPage_App\TabbedPage_App\obj\Debug\netstandard2.0\Page3.xaml.g.cs
+C:\Users\marcos\Desktop\TabbedPage_App\TabbedPage_App\TabbedPage_App\obj\Debug\netstandard2.0\TabbedPage_App.AssemblyInfoInputs.cache
+C:\Users\marcos\Desktop\TabbedPage_App\TabbedPage_App\TabbedPage_App\obj\Debug\netstandard2.0\TabbedPage_App.AssemblyInfo.cs
+C:\Users\marcos\Desktop\TabbedPage_App\TabbedPage_App\TabbedPage_App\obj\Debug\netstandard2.0\TabbedPage_App.csproj.CoreCompileInputs.cache
+C:\Users\marcos\Desktop\TabbedPage_App\TabbedPage_App\TabbedPage_App\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\marcos\Desktop\TabbedPage_App\TabbedPage_App\TabbedPage_App\obj\Debug\netstandard2.0\TabbedPage_App.dll
+C:\Users\marcos\Desktop\TabbedPage_App\TabbedPage_App\TabbedPage_App\obj\Debug\netstandard2.0\ref\TabbedPage_App.dll
+C:\Users\marcos\Desktop\TabbedPage_App\TabbedPage_App\TabbedPage_App\obj\Debug\netstandard2.0\TabbedPage_App.pdb
+C:\Users\marcos\Desktop\dev-2t\Projetos Lidiane\TabbedPage_App\TabbedPage_App\TabbedPage_App\bin\Debug\netstandard2.0\TabbedPage_App.deps.json
+C:\Users\marcos\Desktop\dev-2t\Projetos Lidiane\TabbedPage_App\TabbedPage_App\TabbedPage_App\bin\Debug\netstandard2.0\TabbedPage_App.dll
+C:\Users\marcos\Desktop\dev-2t\Projetos Lidiane\TabbedPage_App\TabbedPage_App\TabbedPage_App\bin\Debug\netstandard2.0\ref\TabbedPage_App.dll
+C:\Users\marcos\Desktop\dev-2t\Projetos Lidiane\TabbedPage_App\TabbedPage_App\TabbedPage_App\bin\Debug\netstandard2.0\TabbedPage_App.pdb
+C:\Users\marcos\Desktop\dev-2t\Projetos Lidiane\TabbedPage_App\TabbedPage_App\TabbedPage_App\obj\Debug\netstandard2.0\TabbedPage_App.csprojAssemblyReference.cache
+C:\Users\marcos\Desktop\dev-2t\Projetos Lidiane\TabbedPage_App\TabbedPage_App\TabbedPage_App\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\marcos\Desktop\dev-2t\Projetos Lidiane\TabbedPage_App\TabbedPage_App\TabbedPage_App\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\marcos\Desktop\dev-2t\Projetos Lidiane\TabbedPage_App\TabbedPage_App\TabbedPage_App\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\marcos\Desktop\dev-2t\Projetos Lidiane\TabbedPage_App\TabbedPage_App\TabbedPage_App\obj\Debug\netstandard2.0\Page2.xaml.g.cs
+C:\Users\marcos\Desktop\dev-2t\Projetos Lidiane\TabbedPage_App\TabbedPage_App\TabbedPage_App\obj\Debug\netstandard2.0\Page3.xaml.g.cs
+C:\Users\marcos\Desktop\dev-2t\Projetos Lidiane\TabbedPage_App\TabbedPage_App\TabbedPage_App\obj\Debug\netstandard2.0\TabbedPage_App.AssemblyInfoInputs.cache
+C:\Users\marcos\Desktop\dev-2t\Projetos Lidiane\TabbedPage_App\TabbedPage_App\TabbedPage_App\obj\Debug\netstandard2.0\TabbedPage_App.AssemblyInfo.cs
+C:\Users\marcos\Desktop\dev-2t\Projetos Lidiane\TabbedPage_App\TabbedPage_App\TabbedPage_App\obj\Debug\netstandard2.0\TabbedPage_App.csproj.CoreCompileInputs.cache
+C:\Users\marcos\Desktop\dev-2t\Projetos Lidiane\TabbedPage_App\TabbedPage_App\TabbedPage_App\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\marcos\Desktop\dev-2t\Projetos Lidiane\TabbedPage_App\TabbedPage_App\TabbedPage_App\obj\Debug\netstandard2.0\TabbedPage_App.dll
+C:\Users\marcos\Desktop\dev-2t\Projetos Lidiane\TabbedPage_App\TabbedPage_App\TabbedPage_App\obj\Debug\netstandard2.0\ref\TabbedPage_App.dll
+C:\Users\marcos\Desktop\dev-2t\Projetos Lidiane\TabbedPage_App\TabbedPage_App\TabbedPage_App\obj\Debug\netstandard2.0\TabbedPage_App.pdb

@@ -1975,11 +1975,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marcos\\Desktop\\Projetos Lidiane\\Note2\\Note2\\Note2.Android\\Note2.Android.csproj",
+      "projectUniqueName": "C:\\Users\\marcos\\Desktop\\dev-2t\\Projetos Lidiane\\Note2\\Note2\\Note2.Android\\Note2.Android.csproj",
       "projectName": "Note2.Android",
-      "projectPath": "C:\\Users\\marcos\\Desktop\\Projetos Lidiane\\Note2\\Note2\\Note2.Android\\Note2.Android.csproj",
+      "projectPath": "C:\\Users\\marcos\\Desktop\\dev-2t\\Projetos Lidiane\\Note2\\Note2\\Note2.Android\\Note2.Android.csproj",
       "packagesPath": "C:\\Users\\marcos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marcos\\Desktop\\Projetos Lidiane\\Note2\\Note2\\Note2.Android\\obj\\",
+      "outputPath": "C:\\Users\\marcos\\Desktop\\dev-2t\\Projetos Lidiane\\Note2\\Note2\\Note2.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2000,8 +2000,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\marcos\\Desktop\\Projetos Lidiane\\Note2\\Note2\\Note2\\Note2.csproj": {
-              "projectPath": "C:\\Users\\marcos\\Desktop\\Projetos Lidiane\\Note2\\Note2\\Note2\\Note2.csproj"
+            "C:\\Users\\marcos\\Desktop\\dev-2t\\Projetos Lidiane\\Note2\\Note2\\Note2\\Note2.csproj": {
+              "projectPath": "C:\\Users\\marcos\\Desktop\\dev-2t\\Projetos Lidiane\\Note2\\Note2\\Note2\\Note2.csproj"
             }
           }
         }

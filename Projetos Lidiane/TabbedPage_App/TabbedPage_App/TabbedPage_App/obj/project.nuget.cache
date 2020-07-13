@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "JodH1/SzYYo2hQE4+HqdapG7Y+DVThN/O4fjmgmdyj9t1/nqpgsBDBCJcTGsQsxXdkBeKD5qJGjq6dtrKzW02A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marcos\\Desktop\\dev-2t\\Projetos Lidiane\\TabbedPage_App\\TabbedPage_App\\TabbedPage_App\\TabbedPage_App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marcos\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\marcos\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\marcos\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.5.0.495\\xamarin.forms.4.5.0.495.nupkg.sha512"
+  ],
+  "logs": []
+}

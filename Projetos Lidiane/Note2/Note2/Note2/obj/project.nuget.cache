@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8DTM4JcE4O+YGxQOSn3oVQfCtvcK9kthHBdfkjzHzEjiSncaX2adHdhmseeDOg3KKSFPnlRjrTkmWG87a/l6yQ==",
+  "dgSpecHash": "vVkY3KLlwf8MZvWCrEWk8qFzJsAnZQnUhgmCF7KOgnjCrtsABHpCpbNGO/GxYmOPi02rfXWFzGsgE0WRxSsSMg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marcos\\Desktop\\Projetos Lidiane\\Note2\\Note2\\Note2\\Note2.csproj",
+  "projectFilePath": "C:\\Users\\marcos\\Desktop\\dev-2t\\Projetos Lidiane\\Note2\\Note2\\Note2\\Note2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marcos\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\marcos\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

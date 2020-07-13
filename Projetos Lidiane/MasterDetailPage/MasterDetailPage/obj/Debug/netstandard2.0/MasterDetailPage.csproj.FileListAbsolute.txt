@@ -1,0 +1,16 @@
+C:\Xamarin\MasterDetail\MasterDetailPage\MasterDetailPage\bin\Debug\netstandard2.0\MasterDetailPage.deps.json
+C:\Xamarin\MasterDetail\MasterDetailPage\MasterDetailPage\bin\Debug\netstandard2.0\MasterDetailPage.dll
+C:\Xamarin\MasterDetail\MasterDetailPage\MasterDetailPage\bin\Debug\netstandard2.0\ref\MasterDetailPage.dll
+C:\Xamarin\MasterDetail\MasterDetailPage\MasterDetailPage\bin\Debug\netstandard2.0\MasterDetailPage.pdb
+C:\Xamarin\MasterDetail\MasterDetailPage\MasterDetailPage\obj\Debug\netstandard2.0\MasterDetailPage.csprojAssemblyReference.cache
+C:\Xamarin\MasterDetail\MasterDetailPage\MasterDetailPage\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Xamarin\MasterDetail\MasterDetailPage\MasterDetailPage\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Xamarin\MasterDetail\MasterDetailPage\MasterDetailPage\obj\Debug\netstandard2.0\MasterDetailPage.AssemblyInfoInputs.cache
+C:\Xamarin\MasterDetail\MasterDetailPage\MasterDetailPage\obj\Debug\netstandard2.0\MasterDetailPage.AssemblyInfo.cs
+C:\Xamarin\MasterDetail\MasterDetailPage\MasterDetailPage\obj\Debug\netstandard2.0\MasterDetailPage.csproj.CoreCompileInputs.cache
+C:\Xamarin\MasterDetail\MasterDetailPage\MasterDetailPage\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Xamarin\MasterDetail\MasterDetailPage\MasterDetailPage\obj\Debug\netstandard2.0\MasterDetailPage.dll
+C:\Xamarin\MasterDetail\MasterDetailPage\MasterDetailPage\obj\Debug\netstandard2.0\ref\MasterDetailPage.dll
+C:\Xamarin\MasterDetail\MasterDetailPage\MasterDetailPage\obj\Debug\netstandard2.0\MasterDetailPage.pdb
+C:\Xamarin\MasterDetail\MasterDetailPage\MasterDetailPage\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Xamarin\MasterDetail\MasterDetailPage\MasterDetailPage\obj\Debug\netstandard2.0\Page2.xaml.g.cs
